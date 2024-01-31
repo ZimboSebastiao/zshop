@@ -1,0 +1,27 @@
+{
+  "short_name": "Zimbo PetShop",
+  "name": "PetShop - Zimbo",
+  "description": "Exemplo de App Next instalável em dispositivos",
+  "screenshots": [
+    {
+      "src": "images/screenshot.png",
+      "sizes": "1920x1075",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "lang": "pt-br"
+}
