@@ -1,15 +1,7 @@
 {
-  "short_name": "Zimbo PetShop",
-  "name": "PetShop - Zimbo",
-  "description": "Exemplo de App Next instalável em dispositivos",
-  "screenshots": [
-    {
-      "src": "images/screenshot.png",
-      "sizes": "1920x1075",
-      "type": "image/png",
-      "platform": "wide"
-    }
-  ],
+  "short_name": "Petshop Zimbo",
+  "name": "Petshop incrível demais da conta e muito bacana",
+  "description": "Exemplo de uma PWA criada com Next.js",
   "icons": [
     {
       "src": "images/favicon.png",
@@ -22,6 +14,6 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "orientation": "portrait-primary",
+  "orientation": "any",
   "lang": "pt-br"
 }
